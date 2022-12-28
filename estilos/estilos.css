@@ -1,0 +1,11 @@
+html{
+    background-color: azure;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+    background-color: aqua;
+    border-radius: 25px;
+}
